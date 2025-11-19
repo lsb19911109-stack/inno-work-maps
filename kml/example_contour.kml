@@ -215,6 +215,30 @@
             </Point>
         </Placemark>
 
+        <Placemark>
+            <name>Peak B</name>
+            <description><![CDATA[
+                Peak B related to 300m and 400m contours.
+            ]]></description>
+            <styleUrl>#peak-style</styleUrl>
+            <Point>
+                <altitudeMode>clampToGround</altitudeMode>
+                <coordinates>126.99,37.675,0</coordinates>
+            </Point>
+        </Placemark>
+
+        <Placemark>
+            <name>Ridge Point C</name>
+            <description><![CDATA[
+                Ridge point C between multiple contour lines.
+            ]]></description>
+            <styleUrl>#peak-style</styleUrl>
+            <Point>
+                <altitudeMode>clampToGround</altitudeMode>
+                <coordinates>126.995,37.668,0</coordinates>
+            </Point>
+        </Placemark>
+
     </Folder>
 
 </Document>
