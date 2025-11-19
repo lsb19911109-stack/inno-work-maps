@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+    <name>Mountain Contours - ClampToGround Example</name>
+
+    <Style id="contour-100">
+        <LineStyle>
+            <color>ff00ff00</color>
+            <width>2</width>
+        </LineStyle>
+    </Style>
+
+    <Style id="contour-200">
+        <LineStyle>
+            <color>ff00ffff</color>
+            <width>2.5</width>
+        </LineStyle>
+    </Style>
+
+    <Style id="contour-300">
+        <LineStyle>
+            <color>ff0000ff</color>
+            <width>3</width>
+        </LineStyle>
+    </Style>
+
+    <Style id="contour-400">
+        <LineStyle>
+            <color>ff8888ff</color>
+            <width>3</width>
+        </LineStyle>
+    </Style>
+
+    <Style id="peak-style">
+        <IconStyle>
+            <color>ff00aaff</color>
+            <scale>1.3</scale>
+            <Icon>
+                <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+            </Icon>
+        </IconStyle>
+        <LabelStyle>
+            <scale>1.0</scale>
+        </LabelStyle>
+    </Style>
+
+    <Folder>
+        <name>Contour Lines (ClampToGround)</name>
+
+        <Placemark>
+            <name>Contour 100m - West</name>
+            <styleUrl>#contour-100</styleUrl>
+            <LineString>
+                <tessellate>1</tessellate>
+                <altitudeMode>clampToGround</altitudeMode>
+                <coordinates>
+                    126.94,37.64,0
+                    126.945,37.645,0
+                    126.95,37.65,0
+                    126.955,37.655,0
+                    126.96,37.66,0
+                    126.965,37.665,0
+                    126.97,37.67,0
+                </coordinates>
+            </LineString>
+        </Placemark>
+
+        <Placemark>
+            <name>Contour 100m - North</name>
+            <styleUrl>#contour-100</styleUrl>
+            <LineString>
+                <tessellate>1</tessellate>
+                <altitudeMode>clampToGround</altitudeMode>
+                <coordinates>
+                    126.95,37.665,0
+                    126.955,37.668,0
+                    126.96,37.671,0
+                    126.968,37.674,0
+                    126.975,37.676,0
+                    126.982,37.678,0
+                </coordinates>
+            </LineString>
+        </Placemark>
+
+        <Placemark>
+            <name>Contour 200m - Curved</name>
+            <styleUrl>#contour-200</styleUrl>
+            <LineString>
+                <tessellate>1</tessellate>
+                <altitudeMode>clampToGround</altitudeMode>
+                <coordinates>
+                    126.955,37.64,0
+                    126.96,37.645,0
+                    126.965,37.65,0
+                    126.97,37.655,0
+                    126.975,37.66,0
+                    126.98,37.665,0
+                    126.985,37.67,0
+                    126.99,37.675,0
+                    126.995,37.678,0
+                </coordinates>
+            </LineString>
+        </Placemark>
+
+        <Placemark>
+            <name>Contour 200m - Bent</name>
+            <styleUrl>#contour-200</styleUrl>
+            <LineString>
+                <tessellate>1</tessellate>
+                <altitudeMode>clampToGround</altitudeMode>
+                <coordinates>
+                    126.97,37.64,0
+                    126.975,37.643,0
+                    126.98,37.647,0
+                    126.985,37.652,0
+                    126.988,37.657,0
+                    126.99,37.662,0
+                    126.992,37.667,0
+                    126.994,37.672,0
+                </coordinates>
+            </LineString>
+        </Placemark>
+
+        <Placemark>
+            <name>Contour 300m - Ridge Crossing</name>
+            <styleUrl>#contour-300</styleUrl>
+            <LineString>
+                <tessellate>1</tessellate>
+                <altitudeMode>clampToGround</altitudeMode>
+                <coordinates>
+                    126.96,37.645,0
+                    126.965,37.65,0
+                    126.97,37.655,0
+                    126.975,37.66,0
+                    126.98,37.665,0
+                    126.985,37.67,0
+                    126.99,37.675,0
+                    126.995,37.678,0
+                    127.0,37.681,0
+                    127.005,37.684,0
+                </coordinates>
+            </LineString>
+        </Placemark>
+
+        <Placemark>
+            <name>Contour 300m - North-South</name>
+            <styleUrl>#contour-300</styleUrl>
+            <LineString>
+                <tessellate>1</tessellate>
+                <altitudeMode>clampToGround</altitudeMode>
+                <coordinates>
+                    126.975,37.635,0
+                    126.978,37.64,0
+                    126.98,37.645,0
+                    126.982,37.65,0
+                    126.984,37.655,0
+                    126.986,37.66,0
+                    126.988,37.665,0
+                    126.99,37.67,0
+                </coordinates>
+            </LineString>
+        </Placemark>
+
+        <Placemark>
+            <name>Contour 400m - High Ridge</name>
+            <styleUrl>#contour-400</styleUrl>
+            <LineString>
+                <tessellate>1</tessellate>
+                <altitudeMode>clampToGround</altitudeMode>
+                <coordinates>
+                    126.97,37.655,0
+                    126.975,37.66,0
+                    126.98,37.665,0
+                    126.985,37.668,0
+                    126.99,37.671,0
+                    126.995,37.673,0
+                    127.0,37.675,0
+                    127.005,37.677,0
+                    127.01,37.679,0
+                </coordinates>
+            </LineString>
+        </Placemark>
+
+        <Placemark>
+            <name>Contour 400m - East Side</name>
+            <styleUrl>#contour-400</styleUrl>
+            <LineString>
+                <tessellate>1</tessellate>
+                <altitudeMode>clampToGround</altitudeMode>
+                <coordinates>
+                    126.99,37.645,0
+                    126.993,37.65,0
+                    126.996,37.655,0
+                    126.999,37.66,0
+                    127.002,37.665,0
+                    127.005,37.67,0
+                    127.008,37.675,0
+                </coordinates>
+            </LineString>
+        </Placemark>
+    </Folder>
+
+    <Folder>
+        <name>Peaks and Ridge Points</name>
+
+        <Placemark>
+            <name>Peak A</name>
+            <description><![CDATA[
+                Peak A near high ridge.
+            ]]></description>
+            <styleUrl>#peak-style</styleUrl>
+            <Point>
+                <altitudeMode>clampToGround</altitudeMode>
+                <coordinates>126.98,37.67,0</coordinates>
+            </Point>
+        </Placemark>
+
+    </Folder>
+
+</Document>
+</kml>
