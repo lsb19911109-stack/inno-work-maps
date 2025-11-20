@@ -25,7 +25,7 @@
     </Style>
     <Style id="hazard_5_highlight">
       <LineStyle>
-        <color>ff0000ff</color>
+        <color>ff84c781</color>
         <width>5</width>
       </LineStyle>
       <LabelStyle>
@@ -70,7 +70,7 @@
     </Style>
     <Style id="hazard_6_highlight">
       <LineStyle>
-        <color>ff0000ff</color>
+        <color>ff84c781</color>
         <width>5</width>
       </LineStyle>
       <LabelStyle>
@@ -115,7 +115,7 @@
     </Style>
     <Style id="hazard_7_highlight">
       <LineStyle>
-        <color>ff0000ff</color>
+        <color>ff84c781</color>
         <width>5</width>
       </LineStyle>
       <LabelStyle>
@@ -160,7 +160,7 @@
     </Style>
     <Style id="hazard_8_highlight">
       <LineStyle>
-        <color>ff0000ff</color>
+        <color>ff84c781</color>
         <width>5</width>
       </LineStyle>
       <LabelStyle>
@@ -205,7 +205,7 @@
     </Style>
     <Style id="hazard_9_highlight">
       <LineStyle>
-        <color>ff0000ff</color>
+        <color>ff84c781</color>
         <width>5</width>
       </LineStyle>
       <LabelStyle>
@@ -250,7 +250,7 @@
     </Style>
     <Style id="hazard_10_highlight">
       <LineStyle>
-        <color>ff0000ff</color>
+        <color>ff84c781</color>
         <width>5</width>
       </LineStyle>
       <LabelStyle>
@@ -295,7 +295,7 @@
     </Style>
     <Style id="hazard_11_highlight">
       <LineStyle>
-        <color>ff0000ff</color>
+        <color>ff84c781</color>
         <width>5</width>
       </LineStyle>
       <LabelStyle>
@@ -340,7 +340,7 @@
     </Style>
     <Style id="hazard_12_highlight">
       <LineStyle>
-        <color>ff0000ff</color>
+        <color>ff84c781</color>
         <width>5</width>
       </LineStyle>
       <LabelStyle>
@@ -385,7 +385,7 @@
     </Style>
     <Style id="hazard_13_highlight">
       <LineStyle>
-        <color>ff0000ff</color>
+        <color>ff84c781</color>
         <width>5</width>
       </LineStyle>
       <LabelStyle>
@@ -430,7 +430,7 @@
     </Style>
     <Style id="hazard_14_highlight">
       <LineStyle>
-        <color>ff0000ff</color>
+        <color>ff84c781</color>
         <width>5</width>
       </LineStyle>
       <LabelStyle>
