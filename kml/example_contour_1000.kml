@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<kml xmlns="http://www.opengis.net/kml/2.2"
-     xmlns:gx="http://www.google.com/kml/ext/2.2">
+<kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
     <name>재현주기 1,000년 국가지진위험지도</name>
 
@@ -12,9 +11,6 @@
         <!-- 매우 연한 주황 #ffe0b2 -->
         <color>ffb2e0ff</color>
         <width>4</width>
-        <gx:physicalWidth>15000</gx:physicalWidth>
-        <gx:outerColor>33000000</gx:outerColor>
-        <gx:outerWidth>1.5</gx:outerWidth>
       </LineStyle>
       <LabelStyle>
         <color>ffffffff</color>
@@ -31,9 +27,6 @@
       <LineStyle>
         <color>ff0000ff</color>
         <width>5</width>
-        <gx:physicalWidth>22000</gx:physicalWidth>
-        <gx:outerColor>66000000</gx:outerColor>
-        <gx:outerWidth>2.5</gx:outerWidth>
       </LineStyle>
       <LabelStyle>
         <color>ffffffff</color>
@@ -45,7 +38,6 @@
           Hazard Level: 5
         ]]></text>
       </BalloonStyle>
-      <gx:labelVisibility>1</gx:labelVisibility>
     </Style>
     <StyleMap id="hazard_5">
       <Pair>
@@ -64,9 +56,6 @@
         <!-- 연한 주황 #ffcc80 -->
         <color>ff80ccff</color>
         <width>4</width>
-        <gx:physicalWidth>15000</gx:physicalWidth>
-        <gx:outerColor>33000000</gx:outerColor>
-        <gx:outerWidth>1.5</gx:outerWidth>
       </LineStyle>
       <LabelStyle>
         <color>ffffffff</color>
@@ -83,9 +72,6 @@
       <LineStyle>
         <color>ff0000ff</color>
         <width>5</width>
-        <gx:physicalWidth>22000</gx:physicalWidth>
-        <gx:outerColor>66000000</gx:outerColor>
-        <gx:outerWidth>2.5</gx:outerWidth>
       </LineStyle>
       <LabelStyle>
         <color>ffffffff</color>
@@ -97,7 +83,6 @@
           Hazard Level: 6
         ]]></text>
       </BalloonStyle>
-      <gx:labelVisibility>1</gx:labelVisibility>
     </Style>
     <StyleMap id="hazard_6">
       <Pair>
@@ -116,9 +101,6 @@
         <!-- 주황 #ffb74d -->
         <color>ff4db7ff</color>
         <width>4</width>
-        <gx:physicalWidth>15000</gx:physicalWidth>
-        <gx:outerColor>33000000</gx:outerColor>
-        <gx:outerWidth>1.5</gx:outerWidth>
       </LineStyle>
       <LabelStyle>
         <color>ffffffff</color>
@@ -135,9 +117,6 @@
       <LineStyle>
         <color>ff0000ff</color>
         <width>5</width>
-        <gx:physicalWidth>22000</gx:physicalWidth>
-        <gx:outerColor>66000000</gx:outerColor>
-        <gx:outerWidth>2.5</gx:outerWidth>
       </LineStyle>
       <LabelStyle>
         <color>ffffffff</color>
@@ -149,7 +128,6 @@
           Hazard Level: 7
         ]]></text>
       </BalloonStyle>
-      <gx:labelVisibility>1</gx:labelVisibility>
     </Style>
     <StyleMap id="hazard_7">
       <Pair>
@@ -168,9 +146,6 @@
         <!-- 진한 주황 #ffa726 -->
         <color>ff26a7ff</color>
         <width>4</width>
-        <gx:physicalWidth>15000</gx:physicalWidth>
-        <gx:outerColor>33000000</gx:outerColor>
-        <gx:outerWidth>1.5</gx:outerWidth>
       </LineStyle>
       <LabelStyle>
         <color>ffffffff</color>
@@ -187,9 +162,6 @@
       <LineStyle>
         <color>ff0000ff</color>
         <width>5</width>
-        <gx:physicalWidth>22000</gx:physicalWidth>
-        <gx:outerColor>66000000</gx:outerColor>
-        <gx:outerWidth>2.5</gx:outerWidth>
       </LineStyle>
       <LabelStyle>
         <color>ffffffff</color>
@@ -201,7 +173,6 @@
           Hazard Level: 8
         ]]></text>
       </BalloonStyle>
-      <gx:labelVisibility>1</gx:labelVisibility>
     </Style>
     <StyleMap id="hazard_8">
       <Pair>
@@ -220,9 +191,6 @@
         <!-- 주황+빨강 #ff9800 -->
         <color>ff0098ff</color>
         <width>4</width>
-        <gx:physicalWidth>15000</gx:physicalWidth>
-        <gx:outerColor>33000000</gx:outerColor>
-        <gx:outerWidth>1.5</gx:outerWidth>
       </LineStyle>
       <LabelStyle>
         <color>ffffffff</color>
@@ -239,9 +207,6 @@
       <LineStyle>
         <color>ff0000ff</color>
         <width>5</width>
-        <gx:physicalWidth>22000</gx:physicalWidth>
-        <gx:outerColor>66000000</gx:outerColor>
-        <gx:outerWidth>2.5</gx:outerWidth>
       </LineStyle>
       <LabelStyle>
         <color>ffffffff</color>
@@ -253,7 +218,6 @@
           Hazard Level: 9
         ]]></text>
       </BalloonStyle>
-      <gx:labelVisibility>1</gx:labelVisibility>
     </Style>
     <StyleMap id="hazard_9">
       <Pair>
@@ -272,9 +236,6 @@
         <!-- 더 붉은 주황 #fb8c00 -->
         <color>ff008cfb</color>
         <width>4</width>
-        <gx:physicalWidth>15000</gx:physicalWidth>
-        <gx:outerColor>33000000</gx:outerColor>
-        <gx:outerWidth>1.5</gx:outerWidth>
       </LineStyle>
       <LabelStyle>
         <color>ffffffff</color>
@@ -291,9 +252,6 @@
       <LineStyle>
         <color>ff0000ff</color>
         <width>5</width>
-        <gx:physicalWidth>22000</gx:physicalWidth>
-        <gx:outerColor>66000000</gx:outerColor>
-        <gx:outerWidth>2.5</gx:outerWidth>
       </LineStyle>
       <LabelStyle>
         <color>ffffffff</color>
@@ -305,7 +263,6 @@
           Hazard Level: 10
         ]]></text>
       </BalloonStyle>
-      <gx:labelVisibility>1</gx:labelVisibility>
     </Style>
     <StyleMap id="hazard_10">
       <Pair>
@@ -324,9 +281,6 @@
         <!-- 주황빛 빨강 #f4511e -->
         <color>ff1e51f4</color>
         <width>4</width>
-        <gx:physicalWidth>15000</gx:physicalWidth>
-        <gx:outerColor>33000000</gx:outerColor>
-        <gx:outerWidth>1.5</gx:outerWidth>
       </LineStyle>
       <LabelStyle>
         <color>ffffffff</color>
@@ -343,9 +297,6 @@
       <LineStyle>
         <color>ff0000ff</color>
         <width>5</width>
-        <gx:physicalWidth>22000</gx:physicalWidth>
-        <gx:outerColor>66000000</gx:outerColor>
-        <gx:outerWidth>2.5</gx:outerWidth>
       </LineStyle>
       <LabelStyle>
         <color>ffffffff</color>
@@ -357,7 +308,6 @@
           Hazard Level: 11
         ]]></text>
       </BalloonStyle>
-      <gx:labelVisibility>1</gx:labelVisibility>
     </Style>
     <StyleMap id="hazard_11">
       <Pair>
@@ -376,9 +326,6 @@
         <!-- 빨강 #e53935 -->
         <color>ff3539e5</color>
         <width>4</width>
-        <gx:physicalWidth>15000</gx:physicalWidth>
-        <gx:outerColor>33000000</gx:outerColor>
-        <gx:outerWidth>1.5</gx:outerWidth>
       </LineStyle>
       <LabelStyle>
         <color>ffffffff</color>
@@ -395,9 +342,6 @@
       <LineStyle>
         <color>ff0000ff</color>
         <width>5</width>
-        <gx:physicalWidth>22000</gx:physicalWidth>
-        <gx:outerColor>66000000</gx:outerColor>
-        <gx:outerWidth>2.5</gx:outerWidth>
       </LineStyle>
       <LabelStyle>
         <color>ffffffff</color>
@@ -409,7 +353,6 @@
           Hazard Level: 12
         ]]></text>
       </BalloonStyle>
-      <gx:labelVisibility>1</gx:labelVisibility>
     </Style>
     <StyleMap id="hazard_12">
       <Pair>
@@ -428,9 +371,6 @@
         <!-- 진한 빨강 #d32f2f -->
         <color>ff2f2fd3</color>
         <width>4</width>
-        <gx:physicalWidth>15000</gx:physicalWidth>
-        <gx:outerColor>33000000</gx:outerColor>
-        <gx:outerWidth>1.5</gx:outerWidth>
       </LineStyle>
       <LabelStyle>
         <color>ffffffff</color>
@@ -447,9 +387,6 @@
       <LineStyle>
         <color>ff0000ff</color>
         <width>5</width>
-        <gx:physicalWidth>22000</gx:physicalWidth>
-        <gx:outerColor>66000000</gx:outerColor>
-        <gx:outerWidth>2.5</gx:outerWidth>
       </LineStyle>
       <LabelStyle>
         <color>ffffffff</color>
@@ -461,7 +398,6 @@
           Hazard Level: 13
         ]]></text>
       </BalloonStyle>
-      <gx:labelVisibility>1</gx:labelVisibility>
     </Style>
     <StyleMap id="hazard_13">
       <Pair>
@@ -480,9 +416,6 @@
         <!-- 아주 진한 빨강 #b71c1c -->
         <color>ff1c1cb7</color>
         <width>4</width>
-        <gx:physicalWidth>15000</gx:physicalWidth>
-        <gx:outerColor>33000000</gx:outerColor>
-        <gx:outerWidth>1.5</gx:outerWidth>
       </LineStyle>
       <LabelStyle>
         <color>ffffffff</color>
@@ -499,9 +432,6 @@
       <LineStyle>
         <color>ff0000ff</color>
         <width>5</width>
-        <gx:physicalWidth>22000</gx:physicalWidth>
-        <gx:outerColor>66000000</gx:outerColor>
-        <gx:outerWidth>2.5</gx:outerWidth>
       </LineStyle>
       <LabelStyle>
         <color>ffffffff</color>
@@ -513,7 +443,6 @@
           Hazard Level: 14
         ]]></text>
       </BalloonStyle>
-      <gx:labelVisibility>1</gx:labelVisibility>
     </Style>
     <StyleMap id="hazard_14">
       <Pair>
